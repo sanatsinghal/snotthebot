@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snotthebot
+- 👋 Hi, I’m Sanat
 - 👀 I’m interested in AI Alignment, understanding group dynamics, reading  
 - 🌱 I’m currently learning ML and macroeconomics  
 - 💞️ I’m looking to collaborate on running cool events, building 
